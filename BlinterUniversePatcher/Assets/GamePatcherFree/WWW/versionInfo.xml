@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<versions>
+	<patch>
+		<id>1</id>
+		<build>0.0</build>
+		<win-link>win_update_0_0.zip</win-link>
+		<mac-link>none</mac-link>
+		<linux-link>none</linux-link>
+		<forced>true</forced>
+	</patch>
+</versions>
+

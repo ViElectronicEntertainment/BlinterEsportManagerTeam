@@ -1,0 +1,20 @@
+[07/27/2015 13:43:29 - FREE VERSION] [SYSTEM] LAUNCHER STARTED
+[07/27/2015 13:43:30 - FREE VERSION] [SYSTEM] Checking for new version... Current version is: RELEASE
+[07/27/2015 13:43:40 - FREE VERSION] [SYSTEM] Could not contact the update server. ERROR: Error en el servidor remoto: (404) No se encontró.
+[07/27/2015 13:43:47 - FREE VERSION] [SYSTEM] There was an error getting the latest version: NO-VERSION
+[07/27/2015 13:46:36 - FREE VERSION] [SYSTEM] LAUNCHER STARTED
+[07/27/2015 13:46:36 - FREE VERSION] [SYSTEM] Checking for new version... Current version is: RELEASE
+[07/27/2015 13:46:38 - FREE VERSION] [SYSTEM] Could not contact the update server. ERROR: Error en el servidor remoto: (404) No se encontró.
+[07/27/2015 13:46:39 - FREE VERSION] [SYSTEM] There was an error getting the latest version: NO-VERSION
+[07/27/2015 14:02:42 - FREE VERSION] [SYSTEM] LAUNCHER STARTED
+[07/27/2015 14:02:42 - FREE VERSION] [SYSTEM] Checking for new version... Current version is: RELEASE
+[07/27/2015 14:02:43 - FREE VERSION] [SYSTEM] Could not contact the update server. ERROR: Error en el servidor remoto: (404) No se encontró.
+[07/27/2015 14:02:45 - FREE VERSION] [SYSTEM] There was an error getting the latest version: NO-VERSION
+[07/27/2015 14:05:05 - FREE VERSION] [SYSTEM] LAUNCHER STARTED
+[07/27/2015 14:05:05 - FREE VERSION] [SYSTEM] Checking for new version... Current version is: RELEASE
+[07/27/2015 14:05:06 - FREE VERSION] [SYSTEM] Could not contact the update server. ERROR: Error en el servidor remoto: (404) No se encontró.
+[07/27/2015 14:05:16 - FREE VERSION] [SYSTEM] There was an error getting the latest version: NO-VERSION
+[07/27/2015 14:08:52 - FREE VERSION] [SYSTEM] LAUNCHER STARTED
+[07/27/2015 14:08:52 - FREE VERSION] [SYSTEM] Checking for new version... Current version is: RELEASE
+[07/27/2015 14:08:53 - FREE VERSION] [SYSTEM] Could not contact the update server. ERROR: Error en el servidor remoto: (404) No se encontró.
+[07/27/2015 14:08:54 - FREE VERSION] [SYSTEM] There was an error getting the latest version: NO-VERSION

@@ -1,0 +1,29 @@
+Mono path[0] = 'C:/Users/sergi/Google Drive/Vie2/Vi Blinter Project/Blinter eSport Manager/eSport Manager Game/BlinterManager/GamingHouse/Builds/GamingHouse_Data/Managed'
+Mono path[1] = 'C:/Users/sergi/Google Drive/Vie2/Vi Blinter Project/Blinter eSport Manager/eSport Manager Game/BlinterManager/GamingHouse/Builds/GamingHouse_Data/Mono'
+Mono config path = 'C:/Users/sergi/Google Drive/Vie2/Vi Blinter Project/Blinter eSport Manager/eSport Manager Game/BlinterManager/GamingHouse/Builds/GamingHouse_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/sergi/Google Drive/Vie2/Vi Blinter Project/Blinter eSport Manager/eSport Manager Game/BlinterManager/GamingHouse/Builds/GamingHouse_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55075
+Multi-casting "[IP] 192.168.0.10 [Port] 55075 [Flags] 2 [Guid] 1542068697 [EditorId] 656035654 [Version] 1048832 [Id] WindowsPlayer(WIN-LT1VKQDFKGM) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.0.10:55075]
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x126)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\sergi\Google Drive\Vie2\Vi Blinter Project\Blinter eSport Manager\eSport Manager Game\BlinterManager\GamingHouse\Builds\GamingHouse_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\sergi\Google Drive\Vie2\Vi Blinter Project\Blinter eSport Manager\eSport Manager Game\BlinterManager\GamingHouse\Builds\GamingHouse_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\sergi\Google Drive\Vie2\Vi Blinter Project\Blinter eSport Manager\eSport Manager Game\BlinterManager\GamingHouse\Builds\GamingHouse_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\sergi\Google Drive\Vie2\Vi Blinter Project\Blinter eSport Manager\eSport Manager Game\BlinterManager\GamingHouse\Builds\GamingHouse_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\sergi\Google Drive\Vie2\Vi Blinter Project\Blinter eSport Manager\eSport Manager Game\BlinterManager\GamingHouse\Builds\GamingHouse_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\sergi\Google Drive\Vie2\Vi Blinter Project\Blinter eSport Manager\eSport Manager Game\BlinterManager\GamingHouse\Builds\GamingHouse_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\sergi\Google Drive\Vie2\Vi Blinter Project\Blinter eSport Manager\eSport Manager Game\BlinterManager\GamingHouse\Builds\GamingHouse_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\sergi\Google Drive\Vie2\Vi Blinter Project\Blinter eSport Manager\eSport Manager Game\BlinterManager\GamingHouse\Builds\GamingHouse_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\sergi\Google Drive\Vie2\Vi Blinter Project\Blinter eSport Manager\eSport Manager Game\BlinterManager\GamingHouse\Builds\GamingHouse_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\sergi\Google Drive\Vie2\Vi Blinter Project\Blinter eSport Manager\eSport Manager Game\BlinterManager\GamingHouse\Builds\GamingHouse_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.157 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
